@@ -1,14 +1,12 @@
 Attendance-System
 =================
+Online attendance management system in PHP in a innovative toll to maintain and manage attendance of students this tools can be a software to monitor attendance details features of the project are as soon as teacher or student joints the institution he or she requested to sign up to the online attendance management system
 
-The project is meant to create an advanced attendance taking system to help teachers, 
-students and college administration by automating the entire process. It is designed keeping 
-scalability and code- reusability in mind, which means that the same project can be altered 
-by changing few variables to get desired results. Furthermore, there’s scope of adding more 
-functionality without disturbing any of the existing one. This is made possible by using 
-Object Oriented Programming, a Modular for designing web service, and following large 
-parts of MVC model. This allows us to extend the project to mobile applications and other environments.
+Teacher: create account login and create class can add or delete class can mark attendance will be able to see the attendance status of the students graphically can update profile
 
-Video Demo : 
+Student: can check attendance for multiple classes can download the report in different format
 
-https://www.projectworlds.in/online-attendance
+Technology 
+HTML CSS JavaScript bootstrap jquery
+Ajax 
+back end PHP my SPL software xampp
